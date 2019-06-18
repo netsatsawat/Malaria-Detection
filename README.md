@@ -13,4 +13,7 @@ The image is the segmented cells from the thin blood smear slide images from the
 - The following process requires the avaialability of microscope, electricity, and trained medical staffs to look at the slides. The process is also time-consuming as the staff can only look at one slide at a time.
 - With the advancement of Deep Learning (Machine learning), it can help optimizing the process by looking at the slide images instead.
 
+<br>
+Below is the sample of red blood cells (no infection and with infection):
 
+<img src="https://github.com/netsatsawat/Malaria-Detection/raw/master/img/malaria_microscope_stages2.jpg" width="500" height="300" />
